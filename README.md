@@ -2,7 +2,7 @@
 
 GenAI developer at Accenture, CS student at Politechnika Poznańska, based in Poznań.
 
-I build LLM-based tools — agents that query databases and Power BI datasets in natural language, RAG pipelines on Azure AI Search, and production GenAI services that ship through DevOps. Python + Azure + OpenAI is the usual stack. Before GenAI I did data science: geospatial analysis, ML models, retail analytics.
+I build LLM-based tools - agents that query databases and Power BI datasets in natural language, RAG pipelines on Azure AI Search, and production GenAI services that ship through DevOps. Python + Azure + OpenAI is the usual stack. Before GenAI I did data science: geospatial analysis, ML models, retail analytics.
 
 ### What I'm up to
 
@@ -19,9 +19,9 @@ I build LLM-based tools — agents that query databases and Power BI datasets in
 
 ### Elsewhere
 
-- [khal-dev.com](https://khal-dev.com/) — blog, projects, write-ups
+- [khal-dev.com](https://khal-dev.com/) - blog, projects, write-ups
 - [LinkedIn](https://linkedin.com/in/khalsci)
-- [Kaggle](https://kaggle.com/jakubkhalponiak) — GSMArena scraper dataset, 10/10 usability score, some community notebooks
+- [Kaggle](https://kaggle.com/jakubkhalponiak) - GSMArena scraper dataset, 10/10 usability score, some community notebooks
 - Discord: khallol
 
-Also play League semi-competitively — Poland's 2nd division and collegiate esports. Open to collaborating on anything that sounds interesting, especially GenAI, data, or some game dev.
+Also play League semi-competitively - Poland's 2nd division and collegiate esports. Open to collaborating on anything that sounds interesting, especially GenAI, data, or some game dev.
