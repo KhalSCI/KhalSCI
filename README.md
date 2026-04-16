@@ -9,7 +9,6 @@ I build LLM-based tools — agents that query databases and Power BI datasets in
 - Building LLM agents and Azure Web Apps at work
 - Finishing my B.Eng. in Computer Science
 - Running [khal-dev.com](https://khal-dev.com/) off a Raspberry Pi 5 on my desk
-- 
 ### Stack
 
 **Languages:** Python, C/C++, SQL, DAX, JavaScript, HTML/CSS  
