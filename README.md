@@ -1,22 +1,28 @@
-# Hi there 👋 I'm Khal!
+# Hey, I'm Jakub (Khal)
 
-![KhalSCI GitHub Banner](https://github.com/user-attachments/assets/26a4c0b1-62ce-4ea2-8c47-bbeea6fe8ac6)
+GenAI developer at Accenture, CS student at Politechnika Poznańska, based in Poznań.
 
-Welcome to my GitHub! This is where I share my coding journey, showcase my projects, and connect with like-minded individuals. A few things about me to get started:
+I build LLM-based tools — agents that query databases and Power BI datasets in natural language, RAG pipelines on Azure AI Search, and production GenAI services that ship through DevOps. Python + Azure + OpenAI is the usual stack. Before GenAI I did data science: geospatial analysis, ML models, retail analytics.
 
-- 🔭 **Currently working on:** Building a Portfolio Website to showcase my skills and projects.
-- 🌱 **Learning:** Deep diving into **Machine Learning** and **Data Analysis** to expand my technical toolkit.
-- 👯 **Looking to collaborate on:** _Anything!_ I'm open to new ideas and projects—let's build something amazing together!
-- 📫 **Reach me:** [Discord: khallol](#)
-- ⚡ **Fun fact:** I’m super competitive! I used to be a semi-professional League of Legends player
+### What I'm up to
 
----
+- Building LLM agents and Azure Web Apps at work
+- Finishing my B.Eng. in Computer Science
+- Running [khal-dev.com](https://khal-dev.com/) off a Raspberry Pi 5 on my desk
+- 
+### Stack
 
-### 📌 A Little More About Me
-I'm passionate about turning data into actionable insights and exploring the endless possibilities of machine learning. When I'm not coding or studying, you'll probably find me playing League!
+**Languages:** Python, C/C++, SQL, DAX, JavaScript, HTML/CSS  
+**AI/ML:** LangChain, LlamaIndex, OpenAI API, Hugging Face, scikit-learn, TensorFlow  
+**Cloud:** Azure (AI Search, Web Apps, DevOps), AWS S3, GCP  
+**Data:** pandas, NumPy, GeoPandas, Folium, osmnx  
+**Web:** Flask, Django, React, Redux  
 
-Thanks for stopping by! 😊 Let's connect, collaborate, and innovate! 
+### Elsewhere
 
---- 
+- [khal-dev.com](https://khal-dev.com/) — blog, projects, write-ups
+- [LinkedIn](https://linkedin.com/in/khalsci)
+- [Kaggle](https://kaggle.com/jakubkhalponiak) — GSMArena scraper dataset, 10/10 usability score, some community notebooks
+- Discord: khallol
 
-Feel free to reach out or check out my projects below!
+Also play League semi-competitively — Poland's 2nd division and collegiate esports. Open to collaborating on anything that sounds interesting, especially GenAI, data, or some game dev.
